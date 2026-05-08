@@ -1,0 +1,24 @@
+{
+    "KPackageStructure": "aurorae",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": ""
+            }
+        ],
+        "Category": "Plasma 6 Window Decorations",
+        "ServiceTypes": [
+            "aurorae"
+        ],
+        "EnabledByDefault": true,
+        "Name": "ecarl",
+        "Description" : "ecarl window decorations",
+        "Id": "ecarl",
+        "Version": "1.8",
+        "License": "GPL_V3",
+        "X-KDE-PluginInfo-blur": false,
+        "X-KPackage-Dependencies": [
+        ]
+    }
+}
