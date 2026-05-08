@@ -1,11 +1,18 @@
+# 🖥 My KDE Plasma Setup
+
+Sharing my favorite KDE Plasma customization. 💜
+
 ## 🎨 Plasma Style
-Plasma Style: https://store.kde.org/p/1330604
+https://store.kde.org/p/1330604
 
 ## 🌈 Kvantum Theme
-Kvantum Theme: https://store.kde.org/p/1331615
+https://store.kde.org/p/1331615
 
-## 🖌 Icons
-Icon Pack (Purple): https://store.kde.org/p/1340791
+## 🪟 Window Decoration
+https://github.com/ethnicee/dots/tree/main/aurorae/themes/ecarl
+
+## 🖌 Icons (Purple)
+https://store.kde.org/p/1340791
 
 ## 🛠 Widgets
 - Emon (in the dots)
