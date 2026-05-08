@@ -15,6 +15,6 @@ https://github.com/ethnicee/dots/tree/main/aurorae/themes/ecarl
 https://store.kde.org/p/1340791
 
 ## 🛠 Widgets
-- Emon (in the dots)
+- Emon - https://github.com/ethnicee/dots/tree/main/system%20monitor%20widget/emon
 - Gif Frame: https://store.kde.org/p/2358273
 - Kurve (Audio Visualizer): https://store.kde.org/p/2299506
